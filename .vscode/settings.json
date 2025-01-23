@@ -12,6 +12,7 @@
         "NIBP",
         "NOYSE",
         "pennylane",
-        "qiskit"
+        "qiskit",
+        "sebastianopian"
     ]
 }
