@@ -10,6 +10,8 @@
         "logn",
         "mathcal",
         "NIBP",
-        "NOYSE"
+        "NOYSE",
+        "pennylane",
+        "qiskit"
     ]
 }
